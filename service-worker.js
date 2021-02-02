@@ -1,0 +1,1 @@
+importScripts('https://pxl.altkraft.daria-markina.lan:80/service-worker.js?id=MXwz');
